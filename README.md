@@ -1,8 +1,8 @@
 # MarvelApp with Marvel API and MVC Pattern
 
-for running download code from zip
-firstly go to terminal and path of project and run "pod install" command line
-and run the workspace file for open on xcode
+-for running download code from zip
+-firstly go to terminal and path of project and run "pod install" command line
+-and run the workspace file for open on xcode
 
 Demo:
 
